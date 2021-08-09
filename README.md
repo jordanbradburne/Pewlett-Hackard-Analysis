@@ -31,10 +31,12 @@ The purpose of this analysis is to...
 ## Summary: 
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-    90,398 roles are needed and need to be filled out as soon as the workforce starts retiring at any given time.
+    
+   * 90,398 roles are needed and need to be filled out as soon as the workforce starts retiring at any given time.
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    No, there are only 1,940 employees who are eligible to participate in a mentorship program.
+   
+   * No, there are only 1,940 employees who are eligible to participate in a mentorship program.
   
 <img width="507" alt="Screen Shot 2021-08-08 at 9 14 50 PM" src="https://user-images.githubusercontent.com/85847344/128659837-2c295e45-708b-45eb-b60c-12a1ce58ef7a.png">
 
