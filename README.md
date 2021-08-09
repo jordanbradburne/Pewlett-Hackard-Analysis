@@ -6,6 +6,10 @@ The purpose of this analysis is to...
   2. Identify employees who are eligible to participate in a mentorship program. 
   3. Write a report that summarizes the analysis as well as helps prepare our friend's manager for the “silver tsunami” as many current employees reach retirement age.
 
+## Resources
+* Data Sources: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+* Software: SQL, PostgreSQL, pgAdmin
+
 ## Results: 
 1. Number of retiring employees per title
 
@@ -25,8 +29,12 @@ The purpose of this analysis is to...
 
 
 ## Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    90,398 roles are needed and need to be filled out as soon as the workforce starts retiring at any given time.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    No, there are only 1,940 employees who are eligible to participate in a mentorship program.
+  
+<img width="507" alt="Screen Shot 2021-08-08 at 9 14 50 PM" src="https://user-images.githubusercontent.com/85847344/128659837-2c295e45-708b-45eb-b60c-12a1ce58ef7a.png">
+
